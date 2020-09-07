@@ -1,3 +1,21 @@
-.image{
+/*Randomzap - Página Principal*/
+/*.randomzap{
     margin: 100px;
+}*/
+
+/*Dashbord - Página Secundária*/
+.dashbord{
+	margin: none; 
+}
+body{
+	background: #00BC77;
+}
+#quadradoverdeclaro{
+	width: 240px;
+	height: 545px;
+	background-color: #7ddbb9;
+	margin-left: -10px; 
+	margin-top: 5px;
+	
+
 }
