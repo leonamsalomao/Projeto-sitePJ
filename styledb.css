@@ -20,21 +20,34 @@ body{
 }
 
 /*Menus laterais*/
+
+ul{
+    list-style-type: none;
+    
+    
+    
+}
 #home{
     font-family: arial;
     color:white;
+    padding-top: 40px;
+    
+    
 }
 #lancamentos{
     font-family: arial;
     color:white;
+    padding-top: 40px;
 }
 
 #calendario{
     font-family: arial;
     color: white;
+    padding-top: 40px;
 }
 
 #lista{
     font-family: arial;
     color: white;
+    padding-top: 40px;
 }
