@@ -1,0 +1,26 @@
+/*Dashbord - Página Secundária*/
+#dashbord{
+    margin-left: -10px; 
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+body{
+    background: black;
+}
+#quadradoverdeclaro{
+	width: 240px;
+	height: 575px;
+	background-color: #7ddbb9;
+	margin-left: -10px; 
+    margin-top: 0px;
+    
+}
+
+#home{
+    font-family: arial;
+    color:white;
+}
+#lancamentos{
+    font-family: arial;
+    color:white;
+}
