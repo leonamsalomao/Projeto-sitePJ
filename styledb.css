@@ -28,7 +28,28 @@ div img{
     padding-right: 10px;
     
 }
-#home{
+
+.lista1{
+    position: absolute;
+    top: 40px;
+    font-family: arial;
+    color:white;
+    padding-top: 40px;
+    margin-left: -15px;
+    line-height: 50px;
+}
+
+.lista2{
+    position: absolute;
+    top: 40px;
+    font-family: arial;
+    color:white;
+    padding-top: 35px;
+    margin-left: 40px;
+    line-height: 50px;
+       
+}
+/*#home{
     position: absolute;
     top: 40px;
     font-family: arial;
@@ -63,7 +84,7 @@ div img{
     padding-top: 40px;
     margin-left: -10px;
 }
-
+*/
 /*Texto do corpo da página*/
 
 #texto{
@@ -82,4 +103,5 @@ div img{
     font-family: arial;
     padding-top: 35px;
     margin-right: 130px;
+    
 }
