@@ -23,9 +23,6 @@ body{
 
 ul{
     list-style-type: none;
-    
-    
-    
 }
 #home{
     font-family: arial;
@@ -50,4 +47,8 @@ ul{
     font-family: arial;
     color: white;
     padding-top: 40px;
+}
+
+#opcoes{
+    
 }
