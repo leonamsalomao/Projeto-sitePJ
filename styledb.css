@@ -171,3 +171,27 @@ div img{
     padding-top: 40px;
     margin-right: 130px;
 }
+
+/*blocos brancos*/
+.blocosBranco1{
+    width: 510px;
+    height: 260px;
+    background: white;
+    position: absolute;
+    bottom: 50px;
+    left: 270px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px;
+}
+
+.blocosBranco2{
+    width: 510px;
+    height: 260px;
+    background: white;
+    position: absolute;
+    bottom: 50px;
+    left: 800px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px;
+    
+}
