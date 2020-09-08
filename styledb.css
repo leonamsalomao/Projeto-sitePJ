@@ -6,8 +6,7 @@
     margin-bottom: -10px;
 }
 body{
-    background: black;
-    color: white;
+    
     font-family: arial;
 }
 #quadradoverdeclaro{
@@ -25,13 +24,18 @@ ul{
     list-style-type: none;
     
 }
+div img{
+    padding-right: 10px;
+    
+}
 #home{
     position: absolute;
     top: 40px;
     font-family: arial;
     color:white;
     padding-top: 40px;
-    margin-left: -10px;    
+    margin-left: -10px;
+        
 }
 #lancamentos{
     position: absolute;
@@ -44,7 +48,7 @@ ul{
 
 #calendario{
     position: absolute;
-    top: 170px;
+    top: 160px;
     font-family: arial;
     color: white;
     padding-top: 40px;
@@ -53,7 +57,7 @@ ul{
 
 #lista{
     position: absolute;
-    top: 230px;
+    top: 220px;
     font-family: arial;
     color: white;
     padding-top: 40px;
@@ -76,6 +80,6 @@ ul{
     top: -20px;
     right: 50px;
     font-family: arial;
-    padding-top: 40px;
-    margin-left: -10px;
+    padding-top: 35px;
+    margin-right: 130px;
 }
