@@ -195,3 +195,16 @@ div img{
     box-shadow: 1px 1px 8px;
     
 }
+#projecao{
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.textobb{
+    margin-left: 20px;
+}
+.textobb2{
+    margin-left: 25px;
+    font-size: 11px;
+    color: gray;
+}
