@@ -107,63 +107,67 @@ div img{
 }
 /*Retangulos*/
 .azul{
-    width: 190px;
-    height: 110px;
+    width: 240px;
+    height: 135px;
     border-radius: 8px;
     background: #2f80ec;
     position: absolute;
     top: 170px;
     left: 270px;
+    margin-left: 0px;
 
 }
 .amarelo{
-    width: 190px;
-    height: 110px;
+    width: 240px;
+    height: 135px;
     border-radius: 8px;
     background: #f2c94d;
     position: absolute;
     top: 170px;
     left: 500px;
+    margin-left: 35px;
 }
 .verde{
-    width: 190px;
-    height: 110px;
+    width: 240px;
+    height: 135px;
     border-radius: 8px;
     background: #6ed099;
     position: absolute;
     top: 170px;
     left: 730px;
+    margin-left: 70px;
 }
 .vermelho{
-    width: 190px;
-    height: 110px;
+    width: 240px;
+    height: 135px;
     border-radius: 8px;
     background: #eb5757;
     position: absolute;
     top: 170px;
     left: 960px;
+    margin-left: 105px;
 }
 .numeros{
     font-family: sans-serif;
-    font-size: 48px;
+    font-size: 60px;
     color: white;
     text-align: justify;
-    margin-top: 5px;
-    margin-left: 16px;
+    margin-top: 20px;
+    margin-left: 18px;
 }
 
 .textos{
     font-size: 12px;
     color: white;
-    margin: 15px;
-    margin-top: -20px;
+    margin: 20px;
+    margin-top: -40px;
 }
 
 .grafico{
     position: absolute;
-    top: -20px;
-    right: -115px;
+    top: -10px;
+    right: -110px;
     font-family: arial;
-    padding-top: 30px;
+    padding-top: 40px;
     margin-right: 130px;
 }
