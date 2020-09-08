@@ -23,32 +23,59 @@ body{
 
 ul{
     list-style-type: none;
+    
 }
 #home{
+    position: absolute;
+    top: 40px;
     font-family: arial;
     color:white;
     padding-top: 40px;
-    
-    
+    margin-left: -10px;    
 }
 #lancamentos{
+    position: absolute;
+    top: 100px;
     font-family: arial;
     color:white;
     padding-top: 40px;
+    margin-left: -10px;
 }
 
 #calendario{
+    position: absolute;
+    top: 170px;
     font-family: arial;
     color: white;
     padding-top: 40px;
+    margin-left: -10px;
 }
 
 #lista{
+    position: absolute;
+    top: 230px;
     font-family: arial;
     color: white;
     padding-top: 40px;
+    margin-left: -10px;
+}
+
+/*Texto do corpo da página*/
+
+#texto{
+    position: absolute;
+    top: 30px;
+    left: 290px;
+    font-family: arial;
+    padding-top: 40px;
+    margin-left: -10px;
 }
 
 #opcoes{
-    
+    position: absolute;
+    top: -20px;
+    right: 50px;
+    font-family: arial;
+    padding-top: 40px;
+    margin-left: -10px;
 }
