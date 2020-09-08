@@ -143,6 +143,27 @@ div img{
     top: 170px;
     left: 960px;
 }
-#numeros{
-    font-size: 21px;
+.numeros{
+    font-family: sans-serif;
+    font-size: 48px;
+    color: white;
+    text-align: justify;
+    margin-top: 5px;
+    margin-left: 16px;
+}
+
+.textos{
+    font-size: 12px;
+    color: white;
+    margin: 15px;
+    margin-top: -20px;
+}
+
+.grafico{
+    position: absolute;
+    top: -20px;
+    right: -115px;
+    font-family: arial;
+    padding-top: 30px;
+    margin-right: 130px;
 }
