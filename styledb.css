@@ -35,7 +35,7 @@ div img{
     font-family: arial;
     color:white;
     padding-top: 40px;
-    margin-left: -15px;
+    margin-left: 0px;
     line-height: 50px;
 }
 
@@ -90,7 +90,7 @@ div img{
 #texto{
     position: absolute;
     top: 30px;
-    left: 290px;
+    left: 280px;
     font-family: arial;
     padding-top: 40px;
     margin-left: -10px;
@@ -104,4 +104,45 @@ div img{
     padding-top: 35px;
     margin-right: 130px;
     
+}
+/*Retangulos*/
+.azul{
+    width: 190px;
+    height: 110px;
+    border-radius: 8px;
+    background: #2f80ec;
+    position: absolute;
+    top: 170px;
+    left: 270px;
+
+}
+.amarelo{
+    width: 190px;
+    height: 110px;
+    border-radius: 8px;
+    background: #f2c94d;
+    position: absolute;
+    top: 170px;
+    left: 500px;
+}
+.verde{
+    width: 190px;
+    height: 110px;
+    border-radius: 8px;
+    background: #6ed099;
+    position: absolute;
+    top: 170px;
+    left: 730px;
+}
+.vermelho{
+    width: 190px;
+    height: 110px;
+    border-radius: 8px;
+    background: #eb5757;
+    position: absolute;
+    top: 170px;
+    left: 960px;
+}
+#numeros{
+    font-size: 21px;
 }
