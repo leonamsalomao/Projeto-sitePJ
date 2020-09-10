@@ -8,5 +8,30 @@ header{
     background-color: #00bc77; /*preenche a área do cabeçalho com a cor escolhida*/
     padding: 5px; /*cria um preenchimento do tamanho determiando*/
 }
+.options{
+    display: inline-block;
+    position: relative;
+    float: right;
+    padding-top: 15px;
+    padding-right: 200px; 
+}
 
+.botoes{
+    padding-right: 15px;
+}
 
+.container{
+    max-width: 230px;
+    height: 520px;
+    background-color: #7DDBB9;
+    
+    
+}
+table{
+    color: white;
+    margin: auto;
+    padding-top: 30px
+}
+td{
+    padding: 10px;
+}
