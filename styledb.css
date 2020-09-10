@@ -59,8 +59,8 @@ td{
 }
 /*Retangulos*/
 .azul{
-    width: 220px;
-    height: 120px;
+    width: 210px;
+    height: 100px;
     border-radius: 8px;
     background: #2f80ec;
     position: absolute;
@@ -70,8 +70,8 @@ td{
 
 }
 .amarelo{
-    width: 220px;
-    height: 120px;
+    width: 210px;
+    height: 100px;
     border-radius: 8px;
     background: #f2c94d;
     position: absolute;
@@ -80,8 +80,8 @@ td{
     margin-left: 35px;
 }
 .verde{
-    width: 220px;
-    height: 120px;
+    width: 210px;
+    height: 100px;
     border-radius: 8px;
     background: #6ed099;
     position: absolute;
@@ -90,8 +90,8 @@ td{
     margin-left: 70px;
 }
 .vermelho{
-    width: 220px;
-    height: 120px;
+    width: 210px;
+    height: 100px;
     border-radius: 8px;
     background: #eb5757;
     position: absolute;
@@ -100,10 +100,10 @@ td{
     margin-left: 105px;
 }
 .numeros{
-    font-size: 58px;
+    font-size: 55px;
     color: white;
     text-align: justify;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-left: 15px;
 }
 
@@ -116,8 +116,52 @@ td{
 
 .grafico{
     position: absolute;
-    top: -10px;
+    top: -20px;
     right: -110px;
     padding-top: 40px;
     margin-right: 130px;
+}
+
+
+
+/*blocos brancos*/
+.blocosBranco1{
+    width: 465px;
+    height: 260px;
+    background: white;
+    position: relative;
+    bottom: -10px;
+    left: -765px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px #9e9c9caa;
+}
+
+.blocosBranco2{
+    width: 465px;
+    height: 258px;
+    background: white;
+    position: relative;
+    bottom: 248px;
+    left: -250px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px #9e9c9caa;
+}
+
+
+
+#projecao{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.textoTitulo{
+    margin-left: 20px;
+    padding-top: 10px;
+    color: rgb(29, 28, 28);
+}
+.textoParagrafo{
+    margin-top: 10px;
+    margin-left: 25px;
+    font-size: 11px;
+    color: gray;
 }
