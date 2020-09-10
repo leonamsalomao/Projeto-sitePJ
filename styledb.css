@@ -1,13 +1,20 @@
 /*Dashbord - Página Secundária*/
-/*Logo do topo*/
 *{ /*Trabalha em todo o documento*/
     margin: 0; /*retira toda a margem da pagina*/
     padding: 0; /*retira todo preenchimento da página*/
 }
+
+
+
+/*Logo do topo*/
 header{
     background-color: #00bc77; /*preenche a área do cabeçalho com a cor escolhida*/
     padding: 5px; /*cria um preenchimento do tamanho determiando*/
 }
+
+
+
+/*Botões*/
 .options{
     display: inline-block;
     position: relative;
@@ -15,17 +22,17 @@ header{
     padding-top: 15px;
     padding-right: 200px; 
 }
-
 .botoes{
     padding-right: 15px;
 }
 
+
+
+/*Painel da esquerda*/
 .container{
     max-width: 230px;
     height: 520px;
     background-color: #7DDBB9;
-    
-    
 }
 table{
     color: white;
@@ -34,4 +41,83 @@ table{
 }
 td{
     padding: 10px;
+}
+
+
+
+/*Corpo da página*/
+.spaceContainer{
+
+}
+#texto{
+    position: absolute;
+    top: 70px;
+    left: 280px;
+    font-family: arial;
+    padding-top: 40px;
+    margin-left: -10px;
+}
+/*Retangulos*/
+.azul{
+    width: 220px;
+    height: 120px;
+    border-radius: 8px;
+    background: #2f80ec;
+    position: absolute;
+    top: 170px;
+    left: 270px;
+    margin-left: 0px;
+
+}
+.amarelo{
+    width: 220px;
+    height: 120px;
+    border-radius: 8px;
+    background: #f2c94d;
+    position: absolute;
+    top: 170px;
+    left: 490px;
+    margin-left: 35px;
+}
+.verde{
+    width: 220px;
+    height: 120px;
+    border-radius: 8px;
+    background: #6ed099;
+    position: absolute;
+    top: 170px;
+    left: 710px;
+    margin-left: 70px;
+}
+.vermelho{
+    width: 220px;
+    height: 120px;
+    border-radius: 8px;
+    background: #eb5757;
+    position: absolute;
+    top: 170px;
+    left: 930px;
+    margin-left: 105px;
+}
+.numeros{
+    font-size: 58px;
+    color: white;
+    text-align: justify;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.textos{
+    font-size: 13px;
+    color: white;
+    margin: 20px;
+    margin-top: -2px;
+}
+
+.grafico{
+    position: absolute;
+    top: -10px;
+    right: -110px;
+    padding-top: 40px;
+    margin-right: 130px;
 }

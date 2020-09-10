@@ -4,10 +4,17 @@
     margin: 0; /*Tira toda a margem da página*/
     padding: 0; /*Tira todo o afastamento da página.*/
 }
+
+
+
+/*Fonte da página*/
 body{
     font-family: Arial, Helvetica, sans-serif; /*Muda a fonte de todo o corpo da página*/
 }
 
+
+
+/*Bloco central da página*/
 .container{
 	max-width: 500px; /*Limita o espaço da página no tamanho determinado*/
 	margin: auto; /*centraliza o espaço determinado acima no meio da tela*/
